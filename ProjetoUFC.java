@@ -10,7 +10,7 @@ public class ProjetoUFC {
     
     public static void main(String[] args) {
         _lutaLutadores();
-        System.out.println("Testando o git!!!");
+        System.out.println("Testando o git!!!!");
     }
     
     public static void _lutaLutadores(){    
